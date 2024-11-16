@@ -1,0 +1,14 @@
+1.  hello_world
+2.  printing
+3.  strings
+4.  variables
+5.  user_inputs
+6.  escape_characters
+7.  numeric_data_and_operators
+8.  operator_precedence
+9.  string_indexing
+10. string_slicing
+11. string_operators
+12. string_replacement_fields
+13. string_formatting
+14. f_strings

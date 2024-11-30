@@ -1,0 +1,28 @@
+1.  dictionary_introduction
+2.  dictionary_iteration
+3.  dictionary_add_items
+4.  dictionary_changing_values
+5.  dictionary_removing_item
+6.  dictionary_using_in
+7.  dictionary_using_in_challenge
+8.  dictionary_adding_items
+9.  contents                                                    # Linking Dictionaries
+10. meal_planner                                                # Linking Dictionaries
+11. contents_quantities                                         # Linking Dictionaries
+12. meal_planner_checking_quantities_choosing_data_structure    # Linking Dictionaries
+13. meal_planner_checking_quantities                            # Linking Dictionaries
+14. meal_planner_challenge                                      # Linking Dictionaries
+15. meal_planner_setdefault_method                              # Linking Dictionaries
+16. setdefault_method                                           # Linking Dictionaries
+17. dict_methods
+18. dict_update_method
+19. dict_value_method
+20. shallow_copy
+21. shallow_copy_2
+22. deep_copy
+23. deep_copy_challenge
+24. deep_copy_recursive
+25. bad_hashing
+26. hash_tables
+27. hash_tables_get_function
+28. hashlib_module

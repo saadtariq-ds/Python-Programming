@@ -1,0 +1,24 @@
+1.  sets_introduction
+2.  sets_unordered_implications
+3.  sets_membership
+4.  sets_adding_items
+5.  sets_to_remove_duplicates
+6.  sets_delete_items
+7.  sets_discard_method
+8.  prescription_data               # Sets Remove Method
+9.  prescription_trial              # Sets Remove Method
+10. sets_pop_method
+11. sets_union
+12. sets_union_practical_example
+13. sets_union_update
+14. primes_and_squares              # Sets Intersection
+15. sets_intersection               # Sets Intersection
+16. sets_intersection_practical_example
+17. sets_intersection_update
+18. sets_difference
+19. sets_difference_practical_example
+20. sets_difference_update
+21. sets_difference_exercise
+22. sets_symmetric_difference
+23. subsets_and_supersets
+24. subsets_and_supersets_practical_example

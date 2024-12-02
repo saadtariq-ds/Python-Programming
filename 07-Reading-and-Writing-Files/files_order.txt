@@ -1,0 +1,12 @@
+1.  reading_from_text_file
+2.  file_opening_using_with
+3.  read_readline_and_readlines
+4.  strip_lstrip_and_rstrip
+5.  remove_prefix_and_remove_suffix
+6.  parsing_data_in_text_file
+7.  working_with_text_data
+8.  countries_challenge
+9.  dictionary_values_with_multiple_keys
+10. printing_data_to_text_file
+11. writing_data_to_text_file
+12. file_encodings

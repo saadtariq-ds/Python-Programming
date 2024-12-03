@@ -10,3 +10,15 @@
 10. printing_data_to_text_file
 11. writing_data_to_text_file
 12. file_encodings
+13. json_serialization_data
+14. json_limitations
+15. json_data_parsing
+16. json_data_parsing_internet
+17. reading_csv_file
+18. quoting_csv_file
+19. sniffer_and_dialect
+20. csv_dialect
+21. writing_csv_file
+22. csv_dictreader
+23. dictreader_countries
+24. fieldnames_dictreader_and_dictwriter

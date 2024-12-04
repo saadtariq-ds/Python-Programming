@@ -28,3 +28,8 @@
 28. 	record_invoice												# Reading and Writing to Same Text File
 29.	seek_and_tell												# Reading and Writing to Same Text File
 30.	record_invoice_improved									# Reading and Writing to Same Text File
+31.	bytes_and_byte_array
+32.	reading_bitmap_file
+33.	id3_types													# Reading MP3 File Tags
+34.	read_id3														# Reading MP3 File Tags
+35.	checking_file_hash

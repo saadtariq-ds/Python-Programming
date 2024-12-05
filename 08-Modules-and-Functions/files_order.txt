@@ -12,3 +12,4 @@
 12.	import_all_modules
 13.	main_fix_global_keyword
 14.	name_main_function
+15.	web_browser_module

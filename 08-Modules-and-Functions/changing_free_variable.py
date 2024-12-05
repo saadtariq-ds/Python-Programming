@@ -1,0 +1,18 @@
+def greet_pythons(items: list) -> None:
+    greeting = "Hello"
+    print(f"The ID of `greeting` in `greet_pythons` is {id(greeting)}")
+
+    def make_greeting(item: str) -> str:
+        greeting = "Hi"
+        print(f"The ID of `greeting` in `make_pythons` is {id(greeting)}")
+        return f"{greeting} {item}"
+
+    for item in items:
+        print(make_greeting(item))
+    print(f"Inside greet_pythons, `greeting` is {greeting}")
+    print(f"The ID of `greeting` in `greet_pythons` is {id(greeting)}")
+
+
+# names = ['John', 'Eric', 'Graham', 'Terry', 'Terry', 'Michael']
+names = ['John']
+greet_pythons(names)
